@@ -17,4 +17,4 @@ How to work with
 > * git clone https://github.com/ibrahim-manuel/dev-radar-mobile-app
 > * yarn global add expo-cli
 > * cd dev-radar-mobile-app
-> * expo start
+> * expo start **or** yarn start
