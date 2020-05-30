@@ -1,4 +1,4 @@
-# ominstack-mobile-app
+# Devradar mobile app
 
 ![IMG](img.png "App runnig")
 
